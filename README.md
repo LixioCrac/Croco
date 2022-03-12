@@ -18,6 +18,7 @@
 ## Tutorial
 
 *1*. Start *MODULE.bat*.
+
 *2*. Start the program with *LAUNCHER.bat*.  
 *3*. Enter the token.  
 *4*. Enjoy for the programme.  
