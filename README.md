@@ -17,10 +17,10 @@
 
 ## Tutorial
 
-*2*. Start *MODULE.bat*.
-*1*. Start the program with *LAUNCHER.bat*.  
-*2*. Enter the token.  
-*3*. Enjoy for the programme.  
+*1*. Start *MODULE.bat*.
+*2*. Start the program with *LAUNCHER.bat*.  
+*3*. Enter the token.  
+*4*. Enjoy for the programme.  
 
 ## End
 
